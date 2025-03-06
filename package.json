@@ -1,0 +1,23 @@
+{
+  "name": "skibidi-toilet-website",
+  "version": "1.0.0",
+  "description": "A website dedicated to Skibidi Toilet, showcasing its features and providing information.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "tsc"
+  },
+  "keywords": [
+    "Skibidi",
+    "Toilet",
+    "Website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
